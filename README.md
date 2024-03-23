@@ -13,9 +13,6 @@
 
 <br/>
 
-### Contact me:
-<!--<a href="#"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a> -->
-
 ### Toolset
 
 <table>
